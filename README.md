@@ -6,7 +6,7 @@ I am currently taking a thorough VueJS course by Maximillian Schwarzmiller on Ud
 
 <div id="exercise">
    <!-- 1) Fill the <p> below with your Name and Age - using Interpolation -->
-    <p>VueJS is pretty cool - YOUR_NAME (AGE)</p>
+    <p></p>
     <!-- 2) Output your age, multiplied by 3 -->
     <p></p>
     <!-- 3) Call a function to output a random float between 0 and 1 (Math.random()) -->
